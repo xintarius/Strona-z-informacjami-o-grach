@@ -1,1 +1,1 @@
-# Strona-z-informacjami-o-grach
+WebGameInformationsService
